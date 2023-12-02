@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app_button_style</string>
+    <string name="single_longclick">指定单独的长按监听器</string>
+    <string name="public_longclick">指定公共长按监听器</string>
+    <string name="show_longclick_record">点击这里显示长按记录</string>
+    <string name="enable_button">启用测试按钮</string>
+    <string name="disale_button">禁用测试按钮</string>
+    <string name="test_button">测试按钮</string>
+    <string name="see_test_button_result">这里查看测试按钮的点击结果</string>
+</resources>
